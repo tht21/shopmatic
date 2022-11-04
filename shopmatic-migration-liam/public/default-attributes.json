@@ -1,0 +1,237 @@
+[
+    {
+        "integration_id": "11002",
+        "name": "product_type",
+        "label": "Product Type",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 1,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11002",
+        "name": "vendor",
+        "label": "Vendor",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 1,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11002",
+        "name": "tag",
+        "label": "Tags",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 1,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11002",
+        "name": "compare_price",
+        "label": "Compare At Price",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11002",
+        "name": "cost_per_item",
+        "label": "Cost Per Item",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11002",
+        "name": "Barcode",
+        "label": "Barcode",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11002",
+        "name": "track_quantity",
+        "label": "Track Quantity",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 13
+    },
+    {
+        "integration_id": "11002",
+        "name": "continue_selling_when_out_of_stock",
+        "label": "Continue Selling When Out Of Stock",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 13
+    },
+    {
+        "integration_id": "11002",
+        "name": "physical_product",
+        "label": "This Is A Physical Product",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 13
+    },
+    {
+        "integration_id": "11002",
+        "name": "weight",
+        "label": "Weight",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+
+    {
+        "integration_id": "11006",
+        "name": "product_tags",
+        "label": "Product Tags",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 1,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "sale_price",
+        "label": "Sale Price",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "tax_status",
+        "label": "Tax Status",
+        "required": 0,
+        "data": [
+            "Taxable",
+            "Shipping only",
+            "None"
+        ],
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 3
+    },
+    {
+        "integration_id": "11006",
+        "name": "tax_class",
+        "label": "Tax Class",
+        "required": 0,
+        "data": [ "Standard" ],
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 3
+    },
+    {
+        "integration_id": "11006",
+        "name": "weight",
+        "label": "Weight",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "length",
+        "label": "Length",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "width",
+        "label": "Width",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "height",
+        "label": "Height",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "purchase_note",
+        "label": "Purchase Note",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 11
+    },
+    {
+        "integration_id": "11006",
+        "name": "menu_order",
+        "label": "Menu Order",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 5
+    },
+    {
+        "integration_id": "11006",
+        "name": "enable_reviews",
+        "label": "Enable Reviews",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 13
+    },
+    {
+        "integration_id": "11006",
+        "name": "title_for_custom_tab",
+        "label": "Title For Custom Tab",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 0
+    },
+    {
+        "integration_id": "11006",
+        "name": "text_for_custom_tab",
+        "label": "Text For Custom Tab",
+        "required": 0,
+        "data": null,
+        "additional_data": null,
+        "attribute_type": 0,
+        "input_type": 11
+    }
+]
